@@ -11,6 +11,10 @@ and collaboration. All projects are MIT licensed, but I generally do not
 actively distribute them, and most will not be actively maintained after
 the initial release.
 
+For examples of what I like to built in my spare time, check out
+[Diatonic](https://diatonic.pebblepatch.dev) or
+[BookBear](https://bookbear.pebblepatch.dev).
+
 When possible, I make projects available on 
 [Pebble Patch](https://pebblepatch.dev).
 
