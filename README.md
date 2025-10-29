@@ -7,7 +7,10 @@ company Harvest Funds and the climate tech company Zerolytics. Visit my
 [linkedin](https://www.linkedin.com/in/vegardegeland/) for details.
 
 This profile is used to share my hobby projects, shared in the spirit of
-sharing.
+sharing. Examples of live projects:
+
+* [Diatonic](https://diatonic.pebblepatch.dev/)
+* [Book Bear](https://bookbear.pebblepatch.dev/)
 
 I have packages published to PyPI, crates.io, and NPM. I don't make any
 guarantees about maintenance, as these are hobby projects, but feedback
