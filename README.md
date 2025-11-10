@@ -12,10 +12,8 @@ sharing. Examples of live projects:
 * [Diatonic](https://diatonic.pebblepatch.dev/)
 * [Book Bear](https://bookbear.pebblepatch.dev/)
 
-I have packages published to PyPI, crates.io, and NPM. I don't make any
-guarantees about maintenance, as these are hobby projects, but feedback
-or feature requests are welcome. All projects are MIT licensed, so feel
-free to fork or contribute!
+I have packages published to PyPI, crates.io, and NPM. All projects are
+MIT licensed, so feel free to fork or contribute!
 
 When possible, I make projects available on
 [Pebble Patch](https://pebblepatch.dev).
