@@ -4,11 +4,13 @@ My professional career has focused primarily on backend development, data engine
 
 This profile is used to share my hobby projects, shared in the spirit of sharing. Some of my live projects:
 
-| Web Site | Description |
-| -------- | ----------- |
-| 🎹 [Diatonic](https://diatonic.pebblepatch.dev/) | Interactive music theory web application. |
-| 📚 [Book Bear](https://bookbear.pebblepatch.dev/) | Wikidata wrapper showing the popularity of an author's works. |
-| 🌾 [Pebble Patch](https://pebblepatch.dev) | Overview of my web pages and libraries. |
+🌾 [Pebble Patch](https://pebblepatch.dev) - Overview of my web pages and libraries.
+
+⚡️ [How Much Energy?](https://energy.pebblepatch.dev/) - Energy and power quantity contextualizer.
+
+🎹 [Diatonic](https://diatonic.pebblepatch.dev/) - Interactive music theory web application.
+
+📚 [Book Bear](https://bookbear.pebblepatch.dev/) - Wikidata wrapper showing the popularity of an author's works.
 
 In addition to the live sites, I have packages published to PyPI, crates.io, and NPM.
 
