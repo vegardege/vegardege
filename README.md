@@ -8,7 +8,7 @@ In my spare time, I like to create little web apps and libraries. Some of my liv
 |--------|-------------|
 | 🎹 **[Diatonic](https://diatonic.pebblepatch.dev/)** | Interactive music theory web application |
 | ⚡️ **[How Much Energy?](https://energy.pebblepatch.dev/)** | Energy and power quantity contextualizer |
-| 📚 **[Book Bear](https://bookbear.pebblepatch.dev/)** | Find the most popular works of an author |
+| 📖 **[Book Bear](https://bookbear.pebblepatch.dev/)** | Find the most popular works of an author |
 | 🇩🇰 **[The King's Speech](https://kingsspeech.pebblepatch.dev/en)** | Statistical analysis of the Danish monarch's NYE speeches |
 | 🌾 **[Pebble Patch](https://pebblepatch.dev)** | Overview of libraries and smaller projects |
 
