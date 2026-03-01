@@ -11,8 +11,7 @@ In my spare time, I like to create little web apps and libraries. Some of my liv
 | 🥇 **[Medal Map](https://medalmap.pebblepatch.dev/en)** | Interactive map with birth places of Winter Olympic medalists |
 | 🇩🇰 **[The King's Speech](https://kingsspeech.pebblepatch.dev/en)** | Statistical analysis of the Danish monarch's NYE speeches |
 | ⚡️ **[How Much Energy?](https://energy.pebblepatch.dev/)** | Energy and power quantity contextualizer |
-| 🌾 **[Pebble Patch](https://pebblepatch.dev)** | Overview of libraries and smaller projects |
 
-In addition to the web sites, I have open source libraries published to PyPI, crates.io, and NPM.
+In addition to the web sites, I have open source libraries published to PyPI, crates.io, and NPM. A full overview of my public projects can be found on **[Pebble Patch](https://pebblepatch.dev)**.
 
 All projects are MIT licensed, so feel free to fork or contribute!
