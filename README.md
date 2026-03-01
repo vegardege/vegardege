@@ -7,9 +7,10 @@ In my spare time, I like to create little web apps and libraries. Some of my liv
 | Project | Description |
 |--------|-------------|
 | 🎹 **[Diatonic](https://diatonic.pebblepatch.dev/)** | Interactive music theory web application |
-| ⚡️ **[How Much Energy?](https://energy.pebblepatch.dev/)** | Energy and power quantity contextualizer |
 | 📖 **[Book Bear](https://bookbear.pebblepatch.dev/)** | Find the most popular works of an author |
+| 🥇 **[Medal Map](https://medalmap.pebblepatch.dev/en)** | Interactive map with birth places of Winter Olympic medalists |
 | 🇩🇰 **[The King's Speech](https://kingsspeech.pebblepatch.dev/en)** | Statistical analysis of the Danish monarch's NYE speeches |
+| ⚡️ **[How Much Energy?](https://energy.pebblepatch.dev/)** | Energy and power quantity contextualizer |
 | 🌾 **[Pebble Patch](https://pebblepatch.dev)** | Overview of libraries and smaller projects |
 
 In addition to the web sites, I have open source libraries published to PyPI, crates.io, and NPM.
