@@ -1,6 +1,6 @@
 I’m a full-stack developer from Norway, currently based in Copenhagen, Denmark.
 
-My professional career has focused primarily on backend development, data engineering and, more recently, AI engineering. I co-founded the fintech company Harvest Funds and the climate tech company Zerolytics. Visit my [linkedin](https://www.linkedin.com/in/vegardegeland/) for details about my professional life.
+Professionally, I mostly do backend development, data engineering and, more recently, AI engineering. I co-founded the fintech company Harvest Funds and the climate tech company Zerolytics. Visit my [linkedin](https://www.linkedin.com/in/vegardegeland/) for my CV.
 
 In my spare time, I like to create little web apps and libraries. Some of my live sites:
 
